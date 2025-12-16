@@ -24,7 +24,7 @@ This repository demonstrates a complete Zabbix monitoring setup deployed on an A
 ## 📂 Documentation
 Detailed step-by-step documentation is available here:
 
-👉 [Zabbix Monitoring Setup Document](docs/Zabbix_Monitoring_Setup_AWS_Docker.docx)
+👉 docs/Zabbix Setup using Docker.docx
 
 ## ✅ Validation
 The setup has been tested with real disk usage simulation to validate:
